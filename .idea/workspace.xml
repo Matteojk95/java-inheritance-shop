@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3f1ad25-a0a6-4078-817b-8c15fb11bca0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java Shop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/shop/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/shop/Prodotto.java" afterDir="false" />
+    <list default="true" id="a3f1ad25-a0a6-4078-817b-8c15fb11bca0" name="Changes" comment="done work">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/shop/Carrello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/shop/Cuffia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/shop/Smartphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/lessons/java/shop/Televisore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/lessons/java/shop/Prodotto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/lessons/java/shop/Prodotto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -51,6 +52,19 @@
       <option name="presentableId" value="Default" />
       <updated>1689858119452</updated>
     </task>
+    <task id="LOCAL-00001" summary="done">
+      <option name="closed" value="true" />
+      <created>1689871518090</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689871518090</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
 </project>
